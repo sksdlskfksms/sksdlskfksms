@@ -1,3 +1,5 @@
+[![My GitHub Banner](./resources/banner-1.PNG)]
+
 ### Hi there 👋
 
 <!--
