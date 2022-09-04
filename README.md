@@ -6,10 +6,10 @@
 ✔️ &nbsp;개발자간 협업을 위해 명확하며, 이해하기 쉽고, 클린한 코딩 스타일을 만들기 위해 노력합니다.
 
 ✔️ &nbsp;웹 페이지를 전체 개발 및 배포/운영까지 경험해본 적이 있습니다.\
-✔️ &nbsp;Open API (SNS 간편 로그인, PG사 결제 서비스) 개발 경험이 있습니다.\
+✔️ &nbsp;Rest API(포스트백) 및 Open API (SNS 간편 로그인, PG사 결제 서비스) 개발 경험이 있습니다.\
 ✔️ &nbsp;AWS EC2를 활용한 웹 사이트 구축 경험이 있습니다.
 
-✔️ &nbsp;저에 대해 더 궁금하시다면, 제 <a href="">포트폴리오</a>를 방문해주세요.
+  <!--✔️ &nbsp;저에 대해 더 궁금하시다면, 제 <a href="">포트폴리오</a>를 방문해주세요.-->
 
 <br><div align=center><h2>🛠 Tech Stack 🛠</h2></div><br>
 
@@ -49,8 +49,8 @@
 ### 🤝🏻 &nbsp;Contact
 <a href=""><img src="https://img.shields.io/badge/-sksdlskfksms@naver.com-03C75A?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://rananote.tistory.com/"><img src="https://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
 ![https://komarev.com/ghpvc/?username=sksdlskfksms](https://komarev.com/ghpvc/?username=sksdlskfksms)
+  <!--<a href=""><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
 
 
 
