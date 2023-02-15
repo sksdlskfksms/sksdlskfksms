@@ -1,6 +1,6 @@
 ![My GitHub Banner](./resources/banner-1.PNG)
 
-<br><div align=center><h2>✨ 반짝이는 꿈을 꾸는 개발자 이나라 ✨</h2></div><br>
+<br><div align=center><h2>✨ 반짝이는 꿈을 꾸는 개발자 ✨</h2></div><br>
 ✔️ &nbsp;호기심이 많아 새로운 일에 도전하는 것을 즐깁니다.\
 ✔️ &nbsp;협업의 중요성을 알고, 함께함으로써 더 많이 성장할 수 있다고 생각합니다.\
 ✔️ &nbsp;개발자간 협업을 위해 명확하며, 이해하기 쉽고, 클린한 코딩 스타일을 만들기 위해 노력합니다.
